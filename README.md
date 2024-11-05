@@ -8,6 +8,9 @@
 British Chat isn’t shy about asking for clarification if something’s unclear; it’s here to make the conversation feel personal and engaging. Whether you fancy a chinwag about the weather, want to know about classic British telly, or need a bit of a nudge on which biscuits go best with tea, British Chat is happy to oblige. The aim is to make you feel right at home, as if you’re chatting with someone who’s got that quintessential British charm and a good sense of humour to boot.
 
 #
+![British](https://github.com/user-attachments/assets/90a20c65-d6cf-4537-b338-3a194d575db0)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
